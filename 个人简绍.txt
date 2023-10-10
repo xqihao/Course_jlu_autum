@@ -1,0 +1,68 @@
+https://teachers.jlu.edu.cn/haoqi/zh_CN/index.htm
+
+
+
+
+
+吉林大学本硕博，曾任挪威科技大学(NTNU)博士后、沙特阿卜杜拉国王科技大学(KAUST)项目顾问、沙特法赫德国王石油与矿业大学(KFUPM)研究员(助理教授)。
+
+
+
+曾在王德利教授、何樵登教授、Alexey Stovas教授、Tariq Alkhalifah教授、Stewart Greenhalgh教授指导下进行科学研究。
+
+
+
+主持校引进人才项目、国家自然科学基金面上项目。
+
+
+
+联系方式：qihao@jlu.edu.cn
+
+
+
+近年来发表的部分论文：
+
+衰减与衰减各向异性 (attenuation & attenuation anisotropy)
+
+1. Hao, Q. and Tsvankin, I. (2023a). Wavefield decomposition for viscoelastic anisotropic media. Geophysics. Submitted for Peer Review. 
+
+2. Hao, Q. and Tsvankin, I. (2023b). Dispersion relation and wave equation for attenuative elliptically anisotropic media. Geophysics. Submitted for Peer Review. 
+
+3. Hao, Q. and Tsvankin, I. (2023c). Thomsen-type parameters and attenuation coefficients for constant-Q transverse isotropy. Geophysics, 88(5):C123–C134. 
+
+4. Hao, Q. (2023d). A ray perturbation method for the acoustic attenuating transversely isotropic eikonal equation. Geophysics, 88(1):C1–C9. 
+
+5. Hao, Q., Greenhalgh, S., Huang, X., and Li, H. (2022). Viscoelastic wave propagation for nearly constant Q transverse isotropy. Geophysical Prospecting, 70(7):1176–1192 
+
+6. Hao, Q. and Greenhalgh, S. (2022). Viscoacoustic wave equations for the power-law dependence of Q on frequency. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 478(2260):20220024.
+
+7. Li, H., Greenhalgh, S., Liu, B., Liu, X., Hao, Q., and Chen, Y. (2022). A generalized seismic attenuation compensation operator optimized by 2-D mathematical morphology filtering. IEEE Transactions on Geoscience and Remote Sensing, 60:1–15. 
+
+8. Hao, Q. and Greenhalgh, S. (2021a). Nearly constant Q dissipative models and wave equations for general viscoelastic anisotropy. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 477(2251):20210170. 
+
+9. Hao, Q. and Greenhalgh, S. (2021b). Nearly constant Q models of the generalized standard linear solid type and the corresponding wave equations. Geophysics, 86(4):T239–T260. 
+
+10. Hao, Q. and Greenhalgh, S. (2019). The generalized standard-linear-solid model and the corresponding viscoacoustic wave equations revisited. Geophysical Journal International, 219(3):1939–1947. 
+
+
+11. Hao, Q. and Alkhalifah, T. (2019). Viscoacoustic anisotropic wave equations. Geophysics, 84(6):C323– C337. 
+
+12. Hao, Q., bin Waheed, U., and Alkhalifah, T. (2019). P-wave complex-valued traveltimes in homogeneous attenuating transversely isotropic media. Geophysical Prospecting, 67(9):2402–2413. 
+
+13. Hao, Q. and Alkhalifah, T. (2017a). An acoustic eikonal equation for attenuating orthorhombic media. Geophysics, 82(4):WA67–WA81. 
+
+14. Hao, Q. and Alkhalifah, T. (2017b). An acoustic eikonal equation for attenuating transversely isotropic media with a vertical symmetry axis. Geophysics, 82(1):C9–C20. 
+
+物理信息神经网络 (PINN)
+
+1. bin Waheed, U., Haghighat, E., Alkhalifah, T., Song, C., and Hao, Q. (2021). Pinneik: Eikonal solution using physics-informed neural networks. Computers & Geosciences, 155:104833. 
+
+2. Alkhalifah, T., Song, C., bin Waheed, U., and Hao, Q. (2021). Wavefield solutions from machine learned functions constrained by the helmholtz equation. Artificial Intelligence in Geosciences, 2:11–19. 
+
+速度各向异性 (velocity anisotropy)
+
+1. Hao, Q. and Stovas, A. (2017). Approximate reflection coefficients for a thin vti layer. Geophysics, 83(1):C1–C11. 
+
+2. Xu, S., Stovas, A., and Hao, Q. (2017). Perturbation-based moveout approximations in anisotropic media. Geophysical Prospecting, 65(5):1218–1230. 
+
+3. Sripanich, Y., Fomel, S., Stovas, A., and Hao, Q. (2017). 3D generalized nonhyperboloidal moveout approximation. Geophysics, 82(2):C49–C59.
